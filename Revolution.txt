@@ -161,8 +161,8 @@ IF PHASE III CONFIRMS THESE RESULTS:
    - AR-V7 positive disease
 
 2. SEQUENCING PARADIGM SHIFT:
-   Current: ADT → Abiraterone → Enzalutamide → Chemo
-   Future:  ADT → Darolutamide + Chemo → Maintenance Darolutamide
+   Current: ADT → Abiraterone → Enzalutamide → Chemotherapie
+   Future:  ADT → Darolutamide + Chemoiotherapie → Maintenance Darolutamide
 
 3. COST-EFFECTIVENESS:
    - Earlier combination = fewer lines of therapy
@@ -270,3 +270,4 @@ Last Modified: 2024-01-20 14:32:17 UTC
 
 
 END OF CONFIDENTIAL DOCUMENT
+
